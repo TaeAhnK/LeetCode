@@ -7,4 +7,5 @@
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)<br>
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)<br>
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)<br>
+[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)<br>
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)<br>
