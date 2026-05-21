@@ -9,3 +9,4 @@
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)<br>
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)<br>
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)<br>
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram)<br>
