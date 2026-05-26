@@ -8,6 +8,7 @@
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)<br>
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)<br>
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)<br>
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)<br>
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)<br>
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)<br>
 [704. Binary Search](https://leetcode.com/problems/binary-search)<br>
