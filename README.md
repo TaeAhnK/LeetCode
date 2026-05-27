@@ -4,6 +4,7 @@
 
 ---
 [1. Two Sum](https://leetcode.com/problems/two-sum/)<br>
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)<br>
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)<br>
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)<br>
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)<br>
