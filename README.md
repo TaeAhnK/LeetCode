@@ -25,3 +25,4 @@
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)<br>
 [704. Binary Search](https://leetcode.com/problems/binary-search)<br>
 [733. Flood Fill](https://leetcode.com/problems/flood-fill)<br>
+[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)<br>
