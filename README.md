@@ -17,6 +17,7 @@
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)<br>
 [133. Clone Graph](https://leetcode.com/problems/clone-graph)<br>
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)<br>
+[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)<br>
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)<br>
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)<br>
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)<br>
