@@ -19,6 +19,7 @@
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)<br>
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)<br>
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)<br>
+[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)<br>
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)<br>
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)<br>
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)<br>
